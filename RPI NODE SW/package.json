@@ -16,7 +16,7 @@
   "dependencies": {
     "node-addon-api": "^2.0.0",
     "serialport": "^8.0.6",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "ws": "^7.2.1",
     "stream-split": "^1.1.0"
   }
