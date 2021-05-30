@@ -17,7 +17,7 @@
     "node-addon-api": "^2.0.0",
     "serialport": "^8.0.6",
     "socket.io": "^2.3.0",
-    "ws": "^7.2.1",
+    "ws": "^7.4.6",
     "stream-split": "^1.1.0"
   }
 }
